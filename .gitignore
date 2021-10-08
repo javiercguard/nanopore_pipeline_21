@@ -1,0 +1,5 @@
+slurmScripts/test/
+slurmScripts/test.slurm
+config/?*config.sh
+nope/
+processAcghComp.sh
